@@ -1,0 +1,107 @@
+/*header*/
+.header{
+    background-image: url(asserts/image/background.1.jpg);
+    height: 700px;
+}
+#navigation{
+    padding-top: 69px;
+}
+.logo {
+    margin: 10px;
+    font-family: Mukta-Regular;
+    font-style: italic;
+    padding-left: 36px;
+    font-size: 53px;
+    background: none repeat scroll 0% 0% #FF0;
+    border-radius: 46px;
+    padding-bottom: 23px;
+    padding-top: 15px;
+}
+.search {
+    position: relative;
+    top: 13px;
+    right: -461px;
+    border-radius: 15px;
+    background: transparent;
+    border-style: groove;
+    color: #fff;
+}
+.bton {
+    position: relative;
+    top: 13px;
+    left: 425px;
+    border-radius: 50%;
+    background: transparent !important;
+}
+#option{
+    padding: 21px;
+    font-size: 21px;
+    color: rgb(4, 0, 255);
+}
+#option:hover{
+    padding: 21px;
+    font-size: 22px;
+    color: rgb(255, 5, 5);
+}
+.headMk {
+    color: #eee;
+    text-align: center;
+    font-size: 45px;
+    text-transform: uppercase;
+    padding-top: 46px;
+    text-decoration: underline;
+}
+.paraText {
+    color: #fff;
+    padding-top: 23px;
+    font-size: 35px;
+    text-align: center;
+    font-style: italic;
+    background: blue;
+}
+#button {
+    position: relative;
+    top: 65px;
+    left: 307px;
+}
+#product{
+    margin-top: 17px;
+}
+#igm{
+    vertical-align: middle;
+    border-style: none;
+    border-radius: 15px;
+}
+.vtext{
+    font-size: 47px;
+    font-family: Mukta-Bold;
+    font-weight: 700;
+    font-style: italic;
+}
+/*ragister*/
+#ragister{
+    margin-top: 20px;
+    background: rgb(109, 108, 108);
+    padding-bottom: 15px;
+}
+.ctext{
+    text-align: center;
+    color: #fff;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: 700;
+}
+/*foother*/
+.foother{
+    background: #000;
+    color: cornsilk;
+    padding: 30px;
+}
+#bgs{
+    background: transparent;
+    color: rgb(255, 254, 254);
+   
+}
+label{
+    color: violet;
+}
